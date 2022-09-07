@@ -1,41 +1,41 @@
-.flex-container {
-    background-color: aquamarine;
+.flexbox-container {
     display: flex;
-
-} 
+    justify-content: flex-start;
+    align-items: center;
+}
 .item-1{
     width: 468px;
     height: 160px;
-    color: blueviolet;
-    
-} /*
+    background-color: blueviolet;
+    border-radius: 5%;
+}
 .item-2{
     width: 468px;
     height: 160px;
-    color: blueviolet;
-    border-radius: 10%;
+    background-color: blueviolet;
+    border-radius: 5%;
 }
 .item-3{
     width: 468px;
     height: 160px;
-    color: blueviolet;
-    border-radius: 10%;
+    background-color: blueviolet;
+    border-radius: 5%;
 }
 .item-4{
     width: 468px;
     height: 160px;
-    color: blueviolet;
-    border-radius: 10%;
+    background-color: blueviolet;
+    border-radius: 5%;
 }
 .item-5{
     width: 468px;
     height: 160px;
-    color: blueviolet;
-    border-radius: 10%;
+    background-color: blueviolet;
+    border-radius: 5%;
 }
 .item-6{
     width: 468px;
     height: 160px;
-    color: blueviolet;
-    border-radius: 10%;
+    background-color: blueviolet;
+    border-radius: 5%;
 }
