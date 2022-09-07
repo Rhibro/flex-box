@@ -1,0 +1,41 @@
+.flex-container {
+    background-color: aquamarine;
+    display: flex;
+
+} 
+.item-1{
+    width: 468px;
+    height: 160px;
+    color: blueviolet;
+    
+} /*
+.item-2{
+    width: 468px;
+    height: 160px;
+    color: blueviolet;
+    border-radius: 10%;
+}
+.item-3{
+    width: 468px;
+    height: 160px;
+    color: blueviolet;
+    border-radius: 10%;
+}
+.item-4{
+    width: 468px;
+    height: 160px;
+    color: blueviolet;
+    border-radius: 10%;
+}
+.item-5{
+    width: 468px;
+    height: 160px;
+    color: blueviolet;
+    border-radius: 10%;
+}
+.item-6{
+    width: 468px;
+    height: 160px;
+    color: blueviolet;
+    border-radius: 10%;
+}
