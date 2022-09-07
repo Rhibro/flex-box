@@ -1,3 +1,6 @@
+html {
+    background-color: chocolate;
+}
 .container {
     display: flex;
     justify-content: center;
